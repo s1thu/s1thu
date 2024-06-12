@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate programmer with 2 years of experi
 - **Dart**
 
 ## 🔧 Frameworks & Libraries
-- **Java Spring Boot**
+- **Spring Boot**
 - **React.js**
 - **Bootstrap**
 
