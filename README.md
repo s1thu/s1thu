@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there My Name is Sithu Win👋
 
-<!--
-**s1thu/s1thu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate programmer with 2 years of experience at DAT. Here’s a little bit about me and my journey in the world of coding.
 
-Here are some ideas to get you started:
+## 💻 Languages
+- **Java**
+- **C**
+- **PHP**
+- **Swift**
+- **Dart**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Frameworks & Libraries
+- **Java Spring Boot**
+- **React.js**
+- **Bootstrap**
+
+## 📚 Currently Learning
+- **Vue.js**
+- **iOS Development with Swift**
+
+## 🏗️ Architectural Knowledge
+- **MVC (Model-View-Controller)**
+- **MVVM (Model-View-ViewModel)**
+
+## 🌐 Web Development Skills
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+Feel free to check out my repositories and get in touch if you want to collaborate on exciting projects or just want to chat about programming!
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sithu-win-3713b9221)
+
+Thanks for visiting!
