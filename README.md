@@ -1,6 +1,6 @@
 # Hi there My Name is Sithu Win👋
 
-Welcome to my GitHub profile! I'm a passionate programmer with 2 years of experience at DAT. Here’s a little bit about me and my journey in the world of coding.
+Welcome to my GitHub profile! I'm a passionate programmer with 3 years of experience at DAT. Here’s a little bit about me and my journey in the world of coding.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sithu5601/) 
